@@ -9,5 +9,5 @@ NOTE: Some of the LaTeX isn't rendering completely in GitHub ipynb viewer so for
 
 Here's a pretty picture of what the code is leading up to 
 <p align="center">
-  <img src="GD1" title='Gradient Descent"/>
+  <img src="https://github.com/KshitijShah-GitHub/Linear_Regression_with_Gradient_Descent/blob/master/GD1.png" title='Gradient Descent"/>
 </p>
